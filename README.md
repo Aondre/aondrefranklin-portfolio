@@ -1,8 +1,8 @@
 ## File Structure
 
 ```
-\---src
-    +---app
+|&mdash; src
+    |---app
     |       favicon.ico
     |       globals.css
     |       layout.tsx
