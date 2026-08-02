@@ -1,2 +1,4 @@
-# aondrefranklin-portfolio
-This is my professional Portfolio/CV Site
+## File Structure
+
+src/
+|&mdash;
