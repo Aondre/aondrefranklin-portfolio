@@ -1,4 +1,5 @@
 ## File Structure
 
 src/
-|&mdash;
+|&mdash; app/
+| |&mdash; page.tsx
